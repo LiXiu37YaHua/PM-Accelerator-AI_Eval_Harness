@@ -13,6 +13,7 @@
 
 <img width="1600" height="967" alt="Screenshot 2026-06-27 004905" src="https://github.com/user-attachments/assets/e5e10d95-e7a0-4bea-bfd5-2b4d8f21b4cd" />
 
+
 A project for the PM Accelerator AI/ML Internship Front-end developer cohort 9, team 10.
 
 ## 🚀 Features
