@@ -20,6 +20,18 @@
 ---
 <img width="1513" height="962" alt="Screenshot 2026-06-26 185022" src="https://github.com/user-attachments/assets/5d90a2ee-2a86-419e-9fcb-d76457c00bdf" />
 
+## This image shows the raw JSON data response from your FastAPI Python backend server root path (/) running live at http://127.0.0.1:8000.
+1. It acts as the "heartbeat" check, confirming that your core backend service is online, listening for web requests, and completely ready to process data.
+Key Elements on the Screen:
+2. URL Address: It is running locally on your machine at http://127.0.0.1:8000, which is the default local address and port for a FastAPI application served by Uvicorn.
+3. Data Content: It displays a clean, structured message confirming the system state:
+"status": "online"
+4. "message": "AI Evaluation Harness backend engine running successfully."
+5. Browser Feature: The checkmark next to "pretty-print" at the top left shows that your browser is automatically formatting the raw text into a clean, easy-to-read layout.
+6.This is the exact backend engine that feeds the data into the dark-mode dashboard we looked at earlier!
+
+---
+
 <img width="992" height="376" alt="Screenshot 2026-06-26 184927" src="https://github.com/user-attachments/assets/cd92a68d-3e89-41bc-be2b-951c5b8bcd58" />
 
 <img width="1356" height="857" alt="Screenshot 2026-06-26 225952" src="https://github.com/user-attachments/assets/9c99169d-818e-443d-bf16-29647f0785ab" />
