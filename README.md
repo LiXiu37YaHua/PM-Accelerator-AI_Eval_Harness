@@ -11,12 +11,11 @@
 4. Live Status Banner: The bright blue alert box says: 🚀 System Status Notice: Evaluation run saved safely to local database! This proves your Next.js frontend successfully reached out to your FastAPI backend, which then saved a real tracking row into your SQLite file.
 ### Data Table: Under "Latest Evaluation Run Records", a cleanly formatted table displays your live evaluation metric:
 5.Run ID: 1
-
 ### Evaluation Target Question: "How many PTO days do full-time employees receive?"
-6.Expected Ground Truth: "Full-time employees receive 15 days of PTO annually."
-7.LLM Output Response: "15 days of PTO annually."
-8.Accuracy Score: A bright green 100%, confirming a perfect match against your evaluation criteria.
-9.Footer Caption: A small text note at the bottom reads: "A live log of automated test metrics pulling straight from your SQLite database file."
+6. Expected Ground Truth: "Full-time employees receive 15 days of PTO annually."
+7. LLM Output Response: "15 days of PTO annually."
+8. Accuracy Score: A bright green 100%, confirming a perfect match against your evaluation criteria.
+9. Footer Caption: A small text note at the bottom reads: "A live log of automated test metrics pulling straight from your SQLite database file."
 
 ---
 <img width="1513" height="962" alt="Screenshot 2026-06-26 185022" src="https://github.com/user-attachments/assets/5d90a2ee-2a86-419e-9fcb-d76457c00bdf" />
