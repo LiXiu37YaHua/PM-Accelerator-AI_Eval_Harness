@@ -18,6 +18,7 @@
 9. Footer Caption: A small text note at the bottom reads: "A live log of automated test metrics pulling straight from your SQLite database file."
 
 ---
+
 <img width="1513" height="962" alt="Screenshot 2026-06-26 185022" src="https://github.com/user-attachments/assets/5d90a2ee-2a86-419e-9fcb-d76457c00bdf" />
 
 ## This image shows the raw JSON data response from your FastAPI Python backend server root path (/) running live at http://127.0.0.1:8000.
