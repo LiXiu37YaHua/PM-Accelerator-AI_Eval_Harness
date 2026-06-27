@@ -1,5 +1,7 @@
 # PM-Accelerator-AI_Eval_Harness
 
+## 📊 Application Dashboard
+<img width="1891" height="705" alt="Success USE" src="https://github.com/user-attachments/assets/7f5dab65-5529-44b9-9a6a-d3d7190e201a" />
 
 
 A project for the PM Accelerator AI/ML Internship Front-end developer cohort 9, team 10.
