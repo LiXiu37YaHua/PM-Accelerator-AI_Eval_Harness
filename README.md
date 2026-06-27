@@ -11,7 +11,7 @@
 4. Live Status Banner: The bright blue alert box says: 🚀 System Status Notice: Evaluation run saved safely to local database! This proves your Next.js frontend successfully reached out to your FastAPI backend, which then saved a real tracking row into your SQLite file.
 ### Data Table: Under "Latest Evaluation Run Records", a cleanly formatted table displays your live evaluation metric:
 5.Run ID: 1
-
+---
 <img width="1513" height="962" alt="Screenshot 2026-06-26 185022" src="https://github.com/user-attachments/assets/5d90a2ee-2a86-419e-9fcb-d76457c00bdf" />
 
 <img width="992" height="376" alt="Screenshot 2026-06-26 184927" src="https://github.com/user-attachments/assets/cd92a68d-3e89-41bc-be2b-951c5b8bcd58" />
