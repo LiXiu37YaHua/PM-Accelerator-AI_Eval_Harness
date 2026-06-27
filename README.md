@@ -3,6 +3,15 @@
 ## 📊 Application Dashboard
 <img width="1891" height="705" alt="Success USE" src="https://github.com/user-attachments/assets/7f5dab65-5529-44b9-9a6a-d3d7190e201a" />
 
+### This image shows the completed, working AI Evaluation Harness Dashboard running live in your web browser.
+1. It confirms that your frontend, backend, and local database are completely integrated and communicating perfectly with each other.
+2. Key Elements on the Screen:
+### Header: It displays the title "AI Evaluation Harness" along with the description "Real-time LLM validation telemetry and accuracy tracking."
+3. Action Button: A blue "Execute Run" button sits in the top right corner.
+4. Live Status Banner: The bright blue alert box says: 🚀 System Status Notice: Evaluation run saved safely to local database! This proves your Next.js frontend successfully reached out to your FastAPI backend, which then saved a real tracking row into your SQLite file.
+### Data Table: Under "Latest Evaluation Run Records", a cleanly formatted table displays your live evaluation metric:
+5.Run ID: 1
+
 <img width="1513" height="962" alt="Screenshot 2026-06-26 185022" src="https://github.com/user-attachments/assets/5d90a2ee-2a86-419e-9fcb-d76457c00bdf" />
 
 <img width="992" height="376" alt="Screenshot 2026-06-26 184927" src="https://github.com/user-attachments/assets/cd92a68d-3e89-41bc-be2b-951c5b8bcd58" />
@@ -186,12 +195,5 @@ Designed an extended JSON data tracking architecture saved directly as `datasets
 │  - Logs persistent historical scores   │
 └────────────────────────────────────────┘
 ```
-### This image shows the completed, working AI Evaluation Harness Dashboard running live in your web browser.
-1. It confirms that your frontend, backend, and local database are completely integrated and communicating perfectly with each other.
-2. Key Elements on the Screen:
-### Header: It displays the title "AI Evaluation Harness" along with the description "Real-time LLM validation telemetry and accuracy tracking."
-3. Action Button: A blue "Execute Run" button sits in the top right corner.
-4. Live Status Banner: The bright blue alert box says: 🚀 System Status Notice: Evaluation run saved safely to local database! This proves your Next.js frontend successfully reached out to your FastAPI backend, which then saved a real tracking row into your SQLite file.
-### Data Table: Under "Latest Evaluation Run Records", a cleanly formatted table displays your live evaluation metric:
-5.Run ID: 1
+
 
