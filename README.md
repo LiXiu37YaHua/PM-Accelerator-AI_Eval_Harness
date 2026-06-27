@@ -16,7 +16,7 @@ A project for the PM Accelerator AI/ML Internship Front-end developer cohort 9, 
 
 ## 👥 Team Members
 - @LiXiu37YaHua (Luminita Gheorghe)
-markdown
+
 ## 💻 How to View the Project Output
 Because this is a Python backend project, users cannot simply open a "live website" from GitHub. It must be run locally on a machine, or viewed via screenshots. 
 
