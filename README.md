@@ -67,7 +67,6 @@ pip install PyMuPDF
 * **Focus Area:** Golden Dataset Architecture, Live Telemetry Tracking, & Core Product Refresher
 * **Development Date:** June 2026
 
----
 
 ## 1. 🎯 Executive Summary & Core Objective
 This research and implementation project focused on building an end-to-end full-stack automated AI Evaluation Harness framework. The primary engineering goal was researching how to effectively construct, serve, store, and visualize structured Golden Datasets (ground-truth reference parameters) used to benchmark Large Language Model (LLM) accuracy.
@@ -78,7 +77,7 @@ The architecture successfully bridges:
 * Back-end REST APIs
 * A server-side rendered modern front-end user interface dashboard
 
----
+
 
 ## 💻 2. Technical Stack & Environment Layout
 The project was intentionally split across specialized development environments to maintain clear engineering boundaries:
@@ -95,7 +94,7 @@ The project was intentionally split across specialized development environments 
 ### Database Management System
 * **SQLite (Local Database Engine):** Configured as a lightweight, zero-install embedded SQL data store saving direct relational rows (`ai_eval.db`) right within the project workspace tree.
 
----
+
 
 ## 🛠️ 3. Sequential Implementation Steps Taken
 
@@ -124,7 +123,7 @@ Designed an extended JSON data tracking architecture saved directly as `datasets
 3. Installed structural visual layout layers via `npx shadcn@latest add table` and `npx shadcn@latest add button`.
 4. Constructed `app/page.tsx` as an asynchronous Next.js Server Component that performs an internal server-to-server data fetch straight from the FastAPI engine, rendering a live telemetry interface reporting a dynamic 100% evaluation accuracy score.
 
----
+
 
 ## ⚠️ 4. Engineering Issues Encountered & Resolutions
 
@@ -188,11 +187,11 @@ Designed an extended JSON data tracking architecture saved directly as `datasets
 └────────────────────────────────────────┘
 ```
 ### This image shows the completed, working AI Evaluation Harness Dashboard running live in your web browser.
-It confirms that your frontend, backend, and local database are completely integrated and communicating perfectly with each other.
-Key Elements on the Screen:
+1. It confirms that your frontend, backend, and local database are completely integrated and communicating perfectly with each other.
+2. Key Elements on the Screen:
 ### Header: It displays the title "AI Evaluation Harness" along with the description "Real-time LLM validation telemetry and accuracy tracking."
-Action Button: A blue "Execute Run" button sits in the top right corner.
-Live Status Banner: The bright blue alert box says: 🚀 System Status Notice: Evaluation run saved safely to local database! This proves your Next.js frontend successfully reached out to your FastAPI backend, which then saved a real tracking row into your SQLite file.
+3. Action Button: A blue "Execute Run" button sits in the top right corner.
+4. Live Status Banner: The bright blue alert box says: 🚀 System Status Notice: Evaluation run saved safely to local database! This proves your Next.js frontend successfully reached out to your FastAPI backend, which then saved a real tracking row into your SQLite file.
 ### Data Table: Under "Latest Evaluation Run Records", a cleanly formatted table displays your live evaluation metric:
-Run ID: 1
+5.Run ID: 1
 
