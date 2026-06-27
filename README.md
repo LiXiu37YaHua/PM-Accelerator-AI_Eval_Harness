@@ -2,10 +2,15 @@
 
 ## 📊 Application Dashboard
 <img width="1891" height="705" alt="Success USE" src="https://github.com/user-attachments/assets/7f5dab65-5529-44b9-9a6a-d3d7190e201a" />
+
 <img width="1513" height="962" alt="Screenshot 2026-06-26 185022" src="https://github.com/user-attachments/assets/5d90a2ee-2a86-419e-9fcb-d76457c00bdf" />
+
 <img width="992" height="376" alt="Screenshot 2026-06-26 184927" src="https://github.com/user-attachments/assets/cd92a68d-3e89-41bc-be2b-951c5b8bcd58" />
+
 <img width="1356" height="857" alt="Screenshot 2026-06-26 225952" src="https://github.com/user-attachments/assets/9c99169d-818e-443d-bf16-29647f0785ab" />
+
 <img width="998" height="494" alt="Screenshot 2026-06-26 215749" src="https://github.com/user-attachments/assets/2f3af6b9-a3dd-40e6-af24-8fec66f11ce3" />
+
 <img width="1600" height="967" alt="Screenshot 2026-06-27 004905" src="https://github.com/user-attachments/assets/e5e10d95-e7a0-4bea-bfd5-2b4d8f21b4cd" />
 
 A project for the PM Accelerator AI/ML Internship Front-end developer cohort 9, team 10.
