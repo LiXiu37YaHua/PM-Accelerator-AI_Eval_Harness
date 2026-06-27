@@ -34,3 +34,11 @@ To review the project output without downloading the code:
 
 ### Option 3: Future Deployment
 If the frontend needs to be publicly accessible over the internet later, the cohort team will deploy this backend architecture to a cloud hosting platform such as **Render**, **Vercel**, or **Streamlit Community Cloud**.
+
+## 📦 Requirements & Installation
+Before running the project locally, you need to install the required Python packages. Open your PyCharm terminal and run the following command:
+
+```bash
+pip install PyMuPDF
+```
+*Note: The `fitz` module imported in `pdf_reader.py` belongs to the `PyMuPDF` package.*
